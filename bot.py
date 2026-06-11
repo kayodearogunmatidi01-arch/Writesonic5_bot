@@ -4,5 +4,3 @@ from dotenv import load_dotenv
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 from openai import OpenAI
-
-# ... (the rest of your code stays exactly the same)
